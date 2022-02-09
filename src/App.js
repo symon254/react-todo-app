@@ -5,7 +5,7 @@ import PostList from './API/PostList';
 function App() {
   return (
     <div className="App">
-      <PostList></PostList>
+      <PostList/>
     </div>
   );
 }
